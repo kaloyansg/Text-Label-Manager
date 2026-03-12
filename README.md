@@ -1,7 +1,7 @@
 # Text Label Manager
 
 ## Overview
-This project is a Java-based implementation of a Label management system, developed as an assignment to demonstrate proficiency in **Structural Design Patterns**.
+This project is an implementation of a Label management system, developed as an assignment to demonstrate proficiency in **Structural Design Patterns**.
 
 The application provides a flexible architecture for creating, transforming, and decorating text labels. It enables dynamic styling, text manipulation, and complex behavior composition using patterns like Decorator, Strategy, Composite, Proxy, Bridge, and Flyweight.
 
